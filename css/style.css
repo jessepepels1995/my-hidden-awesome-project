@@ -1,0 +1,17 @@
+body {
+    background: pink;
+}
+h1 {
+    color: purple;
+}
+p {
+    font-size: 100px;
+}
+
+.speciaal {
+    color:orange;
+}
+
+#eersge {
+    color:blue;
+}
